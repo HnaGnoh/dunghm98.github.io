@@ -14,9 +14,9 @@ function firstQuestion(){
     
     $('.content').hide();
     Swal.fire({
-        title: 'Anoo Ẻm Kutee ❤️!',
+        title: 'Anoo Ẻm Kutee❤️!',
         text: 'T có điều này muốn hỏi mài nhớ phải trả lời thật lòng nhaaa.',
-        imageUrl: '../img/got_1909846425848029.jpeg',
+        imageUrl: 'dunghm98.github.io/img/ got_1909846425848029.jpeg',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("../img/iput-bg.jpg")',
@@ -120,7 +120,7 @@ $('#yes').click(function() {
             Swal.fire({
                 width: 900,
                 confirmButtonText: 'Okiiiii lun <3',
-                background: '#fff url("../img/IMG_20210417_201606.jpg")',
+                background: '#fff url("dunghm98.github.io/img/ IMG_20210612_094321.jpg")',
                 title: 'Anh biết mà ^^ Yêu Em 300.000',
                 text: "Tối nay t qua đón mài đi chơi nhaaaaaaaaa :v Còn giờ thì chờ gì nữa mà ko inbox cho t đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
